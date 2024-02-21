@@ -2,7 +2,7 @@ module online
 
 go 1.21.0
 
-require github.com/mpetavy/common v1.7.2
+require github.com/mpetavy/common v1.7.3
 
 require (
 	cloud.google.com/go v0.110.2 // indirect
