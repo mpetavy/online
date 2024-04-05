@@ -2,7 +2,7 @@ module online
 
 go 1.21.0
 
-require github.com/mpetavy/common v1.7.9
+require github.com/mpetavy/common v1.7.10
 
 require (
 	cloud.google.com/go v0.110.2 // indirect
@@ -56,6 +56,6 @@ require (
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
 	google.golang.org/grpc v1.56.3 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	software.sslmate.com/src/go-pkcs12 v0.2.0 // indirect
 )
