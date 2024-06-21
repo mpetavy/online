@@ -2,7 +2,7 @@ module online
 
 go 1.21.0
 
-require github.com/mpetavy/common v1.8.10
+require github.com/mpetavy/common v1.8.11
 
 require (
 	github.com/beevik/etree v1.1.4 // indirect
