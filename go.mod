@@ -2,7 +2,7 @@ module online
 
 go 1.21.0
 
-require github.com/mpetavy/common v1.8.57
+require github.com/mpetavy/common v1.8.58
 
 require (
 	github.com/bahlo/generic-list-go v0.2.0 // indirect
